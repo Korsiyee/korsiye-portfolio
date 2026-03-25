@@ -1,0 +1,16 @@
+:root {
+  --bg: #ffffff;
+  --fg: #0f1724;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Poppins, system-ui;
+}
+h1 {
+  margin: 0 0 8px;
+}
+p {
+  margin: 0;
+}
